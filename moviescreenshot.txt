@@ -1,0 +1,7 @@
+www.rottentomatoes.com###photos-module
+www.rottentomatoes.com###videos-carousel
+www.rottentomatoes.com###what-to-know
+www.rottentomatoes.com###where-to-watch
+www.rottentomatoes.com###rate-and-review-widget
+www.rottentomatoes.com##tiles-carousel-responsive
+www.rottentomatoes.com###recommendations > .header
