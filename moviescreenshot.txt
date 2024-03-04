@@ -5,3 +5,4 @@ www.rottentomatoes.com###where-to-watch
 www.rottentomatoes.com###rate-and-review-widget
 www.rottentomatoes.com##tiles-carousel-responsive
 www.rottentomatoes.com###recommendations > .header
+www.rottentomatoes.com##.dynamic-poster-list
