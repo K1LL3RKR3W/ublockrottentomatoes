@@ -23,3 +23,4 @@ www.rottentomatoes.com##rt-button:nth-of-type(5)
 www.rottentomatoes.com##carousel-slider
 www.rottentomatoes.com##media-hero > rt-button
 www.rottentomatoes.com##media-hero > watchlist-button
+www.rottentomatoes.com##media-hero > rt-link
