@@ -17,3 +17,6 @@ www.rottentomatoes.com##.rate-and-review
 www.rottentomatoes.com##.more-like-this
 www.rottentomatoes.com##.videos-carousel
 www.rottentomatoes.com##.photos-carousel
+www.rottentomatoes.com##media-scorecard > rt-text
+www.rottentomatoes.com##affiliate-icon
+www.rottentomatoes.com##rt-button:nth-of-type(5)
