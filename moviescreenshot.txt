@@ -6,3 +6,14 @@ www.rottentomatoes.com###rate-and-review-widget
 www.rottentomatoes.com##tiles-carousel-responsive
 www.rottentomatoes.com###recommendations > .header
 www.rottentomatoes.com##.dynamic-poster-list
+
+! Jul 13, 2024 https://www.rottentomatoes.com
+www.rottentomatoes.com##.modules-nav
+www.rottentomatoes.com##.where-to-watch
+www.rottentomatoes.com##.what-to-know
+www.rottentomatoes.com##.critics-reviews
+www.rottentomatoes.com##.audience-reviews
+www.rottentomatoes.com##.rate-and-review
+www.rottentomatoes.com##.more-like-this
+www.rottentomatoes.com##.videos-carousel
+www.rottentomatoes.com##.photos-carousel
