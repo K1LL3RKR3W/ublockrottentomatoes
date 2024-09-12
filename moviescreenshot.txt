@@ -20,7 +20,7 @@ www.rottentomatoes.com##.photos-carousel
 www.rottentomatoes.com##media-scorecard > rt-text
 www.rottentomatoes.com##affiliate-icon
 www.rottentomatoes.com##rt-button:nth-of-type(5)
-www.rottentomatoes.com##carousel-slider
-www.rottentomatoes.com##media-hero > rt-button
-www.rottentomatoes.com##media-hero > watchlist-button
-www.rottentomatoes.com##media-hero > rt-link
+!www.rottentomatoes.com##carousel-slider
+!www.rottentomatoes.com##media-hero > rt-button
+!www.rottentomatoes.com##media-hero > watchlist-button
+!www.rottentomatoes.com##media-hero > rt-link
